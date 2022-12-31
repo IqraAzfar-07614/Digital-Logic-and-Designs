@@ -1,5 +1,6 @@
 # Digital-Logic-and-Designs
 TURN UP THE GUITAR(PROJECT)
+
 Our final project aimed to create a user-friendly PC version of the popular mobile phone game
 called “Piano Tiles”. We call this game “Turn up the Guitar”. This idea was chosen because all
 the digital design concepts that we have learned in the course could be effectively applied to tie
